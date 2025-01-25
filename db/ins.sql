@@ -1,3 +1,4 @@
+-- Active: 1717229315063@@127.0.0.1@3306@skyins
 -- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
@@ -6,7 +7,7 @@
 -- Generation Time: Dec 26, 2019 at 07:21 PM
 -- Server version: 5.7.26
 -- PHP Version: 7.2.18
-
+use ins;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;

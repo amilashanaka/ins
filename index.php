@@ -18,7 +18,7 @@ include_once './get_ins.php';
 			<?php include_once './welcome_box.php';?>
 			<!-- services-box -->
 			
-                        <?php// include_once './services_box.php';?>        
+                        <?php  include_once './services_box.php';?>        
 			<!-- recent-works-box -->
 			<?php //include_once './recent_works.php';?>
 
